@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "password": "YOUR_PASSWORD_HERE",
+    "isAdmin": true
+  },
+  "user": {
+    "password": "YOUR_PASSWORD_HERE",
+    "isAdmin": false
+  }
+}

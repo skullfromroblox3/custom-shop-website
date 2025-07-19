@@ -1,0 +1,8 @@
+# dependencies
+node_modules/
+
+# other hidden
+data/products.json
+data/users.json
+public/uploads
+.gitignore

@@ -1,0 +1,5 @@
+body { font-family: sans-serif; max-width: 600px; margin: 2rem auto; padding: 1rem; }
+ul { list-style: none; padding: 0; }
+li { margin: .5rem 0; }
+.error { color: red; }
+form { margin-bottom: 1rem; }
