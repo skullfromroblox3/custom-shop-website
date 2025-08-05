@@ -11,7 +11,7 @@ A website that you can customize fully in the code. Personalize it any way you w
 ## Setup
 
 ### Requirements
-- Code Editor (Visual Studio Code or Notepad++ (hpp))
+- Code Editor (Visual Studio Code or Notepad++ (npp))
 - Node.js 22.x Or Higher
 - Web Development Knowledge
 
